@@ -18,7 +18,7 @@ public class SelfExercise4 {
 		System.out.println("f = "+ f);
 		int x = 1;
 		int z = x++ + ++x + 2*x++;
-        //x++=(1), after x++, x=2.
+                //x++=(1), after x++, x=2.
 		//++x=2+1=(3), x=3 after this.
 		//2*x++=2*3=(6), x=4 after this.
 		//Output=1+3+6=10.
