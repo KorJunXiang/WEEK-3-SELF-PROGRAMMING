@@ -1,0 +1,18 @@
+package SelfProgramming;
+
+public class SelfExercise1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int oneThousand=1000;
+int oneMillion=1000*oneThousand;
+long oneBillion=1000*oneMillion;
+float threeBillion=3*oneBillion;
+System.out.println(threeBillion);//when the output too long use the long or double
+
+final int x=25;//final mean cant be change, it constant
+System.out.println("x + 5 = "+(x+5));
+
+	}
+
+}
